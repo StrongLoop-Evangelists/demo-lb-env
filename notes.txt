@@ -1,0 +1,5 @@
+
+
+http://loopback.io/doc/en/lb3/Environment-specific-configuration.html
+
+1) added datasources.local.json and emptied original
